@@ -1,12 +1,3 @@
-# Java Backend + ReactJS Frontend
-
-With Webpack, HMR, Redux, React Router and more...
-
-## Creating a Java Web App Using Embedded Tomcat
-
-Please follow the steps from [heroku](https://devcenter.heroku.com/articles/create-a-java-web-application-using-embedded-tomcat).
-Or follow below steps in case site is no longer available
-
 ### Prerequisites
 
 * Basic Java knowledge, including an installed version of the JVM and Maven.
