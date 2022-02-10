@@ -34,7 +34,7 @@
     "eslint-loader": "^1.9.0",
     "eslint-plugin-react": "^7.4.0",
     "extract-text-webpack-plugin": "^3.0.2",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^2.0.8",
     "prepack-webpack-plugin": "^1.1.0",
     "sass-loader": "^6.0.6",
